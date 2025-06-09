@@ -1,4 +1,4 @@
-package com.Uber.desafio_spring_boot;
+package com.Uber.desafio.spring.boot;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
