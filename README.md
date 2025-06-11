@@ -2,7 +2,7 @@
 
 
 
-#📧 Projeto Desafio Uber – Email Service (Java + Clean Architecture)
+📧 Projeto Desafio Uber – Email Service (Java + Clean Architecture)
 
 
 Este projeto foi desenvolvido como parte dos meus estudos de backend e arquitetura de software, inspirado no desafio técnico da Uber, especificamente na proposta de criação de um serviço de envio de e-mails.
