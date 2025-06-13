@@ -1,4 +1,3 @@
-https://github.com/uber-archive/coding-challenge-tools?tab=readme-ov-file#readme
 # Desafio-Uber-Spring2-EmailService
 
 
@@ -13,3 +12,6 @@ Implementei o projeto em Java, utilizando os princípios da Clean Architecture, 
 Para o envio real de e-mails, integrei o sistema ao Amazon SES (Simple Email Service), utilizando a AWS como provedor confiável para envio de mensagens.
 
 O foco do projeto foi criar um serviço robusto, extensível e de fácil manutenção, com atenção às boas práticas de design e arquitetura.
+
+
+https://github.com/uber-archive/coding-challenge-tools?tab=readme-ov-file#readme
